@@ -14,12 +14,13 @@ If you still run into problems don't hesitate to contact us via https://sdk.thec
 ### Build environment
 To make an easy start, be sure you have this Xcode versions:
 
-* Xcode 16.0
+* Xcode 16.2
 
 Newer versions could work / should work, but we have verified it to work with the above tool versions.
 
 These older versions of Xcode are verified to work with SDK are:
 
+* Xcode 16.0
 * Xcode 15.4
 * Xcode 14.0 or 14.1
 * Xcode 13.2.1
@@ -74,10 +75,10 @@ To add the SDK to your project follow the steps in this section.
 #### Adding the Close framework - Swift Package Manager
 Add CloseChannel SDK using the Swift Package Manager:
 
-* https://github.com/close-dev-team/mobile-close-channel-sdk-ios  (version 1.7.2)
-* https://github.com/close-dev-team/mobile-close-channel-sdk-ios-dependencies  (version 1.7.2) 
+* https://github.com/close-dev-team/mobile-close-channel-sdk-ios  (version 1.7.3)
+* https://github.com/close-dev-team/mobile-close-channel-sdk-ios-dependencies  (version 1.7.3) 
 
-The latest version available via Swift Package Manager is 1.7.2
+The latest version available via Swift Package Manager is 1.7.3
 
 Because our Package is in a binary format, we need a seperate packe to include all necessary dependencies. 
 
